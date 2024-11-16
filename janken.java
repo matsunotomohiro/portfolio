@@ -1,5 +1,7 @@
 //じゃんけんを判定するプログラム
 
+import java.util.*;
+
 public class FirstSample {
 public static void main(String[] args) {
     // 1．初めの処理
