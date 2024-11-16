@@ -1,6 +1,9 @@
 //じゃんけんを判定するプログラム
 
-public static void main(String[] args) {
+import java.util.*;
+
+class Janken {
+   public static void janken(String[] args) {
     // 1．初めの処理
     System.out.println("じゃんけん ...");
     Scanner scan = new Scanner(System.in);
@@ -67,4 +70,5 @@ public static void main(String[] args) {
     // 6. 結果の表示
     System.out.println(hantei);
     System.out.println(result);
+}
 }
