@@ -1,6 +1,6 @@
 //じゃんけんを判定するプログラム
 
-import java.util.*;
+import java.util.Scanner;
 
 class Janken {
    public static void janken(String[] args) {
